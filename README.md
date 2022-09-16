@@ -1,1 +1,1 @@
-<h3 align = "center"> Behold! Beautifulness. </h3>
+<h3> Behold! Beautifulness. </h3>
